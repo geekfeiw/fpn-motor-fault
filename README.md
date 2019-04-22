@@ -9,12 +9,3 @@ Please download data and pre-trained weights [here](https://drive.google.com/ope
 ![](figs/net1.png)
 ![](figs/net2.png)
 
-
-## The results of fault diagnose on stationary condition (the upper-left): 
-
-![](figs/confmatrix-still.png)
-
-
-## The results of fault diagnose on un-stationary condition (the upper-left):
-
-![](figs/confmatrix-changingspeed.png)
